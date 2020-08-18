@@ -8,7 +8,7 @@ Project 2 from Udacity's [Artificial Intelligence for Trading Nanodegree](https:
 
 ### Introduction
 
-Implementing the breakout strategy and seeing if it has the potential to be profitable.
+Implementing the breakout strategy and seeing if it has the potential to be profitable
 
 ### Data
 
